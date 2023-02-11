@@ -7,7 +7,7 @@ function SignUp() {
     document.title = 'Sign Up';
 
     return () => {
-      document.title = 'Social Media';
+      document.title = 'TextaGram';
     };
   }, []);
 
