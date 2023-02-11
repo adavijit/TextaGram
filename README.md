@@ -1,14 +1,13 @@
-# Social Media
+# TextaGram
 
-Social Media app built with React + Typescript on the front-end and Firebase on the backend
+TextaGram is a social Media app built with React + Typescript on the front-end and Firebase on the backend
 
-Check out the [deployed site](https://social-media-pkilian.netlify.app/) - You don't need to create an account, just use "Demo Sing In" button to use demo account.
+Check out the [deployed site](/) - You don't need to create an account, just use "Demo Sing In" button to use demo account.
 
 ## Summary
 
 This application was built using React (Custom Hooks, Context, React Query, Chakra UI) and Firebase. Firebase firestore handles all the data, and that data is retrieved using a React Query with custom hooks.
 
-I used Chakra UI with chakra default theme for this project because i wanted to focus more on funcionality than design. This libary is really simple, composable and provide great developer experience so i really enjoyed using it. All application data comes from firebase so for fetching and managing data I chose React Query. It is such a great libary and i really enjoyed using it in my projects and I won't stop using it in my future projects :). I also used great and simple libary react-hook-form for handling the forms. I provided auth and active user data to other components via react contex on client side.
 
 ## Core packages
 
