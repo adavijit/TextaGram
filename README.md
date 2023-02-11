@@ -2,7 +2,7 @@
 
 TextaGram is a social Media app built with React + Typescript on the front-end and Firebase on the backend
 
-Check out the [deployed site](https://fir-react-image.firebaseapp.com/) - You don't need to create an account, just use "Demo Sing In" button to use demo account.
+Check out the [deployed site](https://fir-react-image.firebaseapp.com/)
 
 ## Summary
 

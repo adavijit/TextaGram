@@ -91,18 +91,6 @@ function SignInForm() {
           Sign In
         </Button>
       </form>
-      <Button
-        onClick={handleDemoLogin}
-        mt='4'
-        type='submit'
-        colorScheme='purple'
-        size='md'
-        isFullWidth
-        isLoading={isLoading ? true : false}
-        loadingText='Signing In'
-      >
-        Demo Sign In
-      </Button>
       <Text fontSize='xl' align='center' mt='4'>
         Don't have account?{' '}
         <Link
